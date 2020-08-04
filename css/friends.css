@@ -18,7 +18,7 @@
     margin-bottom: 10px;
 }
 
-.friends__content .friend__name {
-    display: block;
-    font-weight: 700;
+.friend__content .friend__name {
+    display: swap;
+    font-weight: 600;
 }
