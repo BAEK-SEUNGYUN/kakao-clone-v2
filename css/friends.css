@@ -13,7 +13,7 @@
 
 .friends__plus .friends__title,
 .friends__list .friends__title{
-    font: 14px;
+    font-size: 13px;
     opacity: 0.5;
     margin-bottom: 10px;
 }
